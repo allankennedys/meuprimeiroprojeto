@@ -20,6 +20,7 @@ style#fundo{
     width: 400px;
     margin: auto;
     padding-top:auto;
+    padding-bottom: 40px;
 }
 .caixa {
     box-shadow: 1px 1px 5px;
