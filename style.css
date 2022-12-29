@@ -1,0 +1,83 @@
+body {
+    
+    font-family: sans-serif;
+background-color: black;
+}
+body p{
+    color: #04adc4;
+}
+img#logo {
+    position: absolute;
+    left: 1000px;
+    top: 10px;
+    size-adjust: 369px 149px;
+}
+style#fundo{
+    opacity: 0.3;
+}
+
+.formulario {
+    width: 400px;
+    margin: auto;
+    padding-top: 40px;
+}
+.caixa {
+    box-shadow: 1px 1px 5px;
+    background-color: black;
+    padding: 30px;
+    border-radius: 5px;
+    opacity:0.9;
+}
+.caixa-cima {
+    text-align: center;
+}
+
+
+.titulo {
+    color: #0891a3;
+    
+}
+.caixa-grupo > label {
+width: 100%;
+color: gray;
+display: block;
+}
+.caixa-grupo > input {
+border-radius: 5px;
+outline: 0;
+width: 100%;
+height: 25px;
+padding: 4px;
+margin: 5px;
+background-color: rgb(41, 41, 41);
+border: none;
+}
+.caixa-grupo{
+    margin-bottom: 10px;
+}
+.caixa-grupo > button{
+    padding: 10px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    padding: 1px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 13pt;
+    width: 100%;
+    height: 40px;
+    font-family: sans-serif;
+    text-decoration: solid;
+    border: 0px;
+    background-image: linear-gradient(to right,rgb(2, 143, 199),rgb(0, 50, 83));
+
+    
+}
+.termo1{
+    text-decoration: none;
+color: rgb(58, 58, 58);
+}
+.botao button:hover{
+    background-image: linear-gradient(to right,rgb(4, 92, 151),rgb(3, 96, 133));
+ 
+}
