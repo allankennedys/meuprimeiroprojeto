@@ -6,7 +6,7 @@ background-color: black;
 body p{
     color: #04adc4;
 }
-img#logo {
+.logo {
     position: absolute;
     left: 1000px;
     top: 10px;
