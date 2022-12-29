@@ -19,7 +19,7 @@ style#fundo{
 .formulario {
     width: 400px;
     margin: auto;
-    padding-top: 40px;
+    padding-top:auto;
 }
 .caixa {
     box-shadow: 1px 1px 5px;
